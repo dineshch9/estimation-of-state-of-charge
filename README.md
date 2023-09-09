@@ -3,5 +3,6 @@
 ->Demonstrated the effectiveness of the selected model by achieving low MAE and RMSE values, indicating precise SoC predictions. \
 ->Identified important factors influencing SoC, such as time of day, weather conditions, and driving patterns, providing insights for optimizing charging strategies and range management.
 
-![image](https://github.com/dineshch9/estimation-of-state-of-charge/assets/116077564/5955e55f-3fee-4c48-84e1-7f4513981ec8)
+![newplot](https://github.com/dineshch9/estimation-of-state-of-charge/assets/116077564/14f62e48-9dbe-407c-835f-17c3c238f94e)
+
 
